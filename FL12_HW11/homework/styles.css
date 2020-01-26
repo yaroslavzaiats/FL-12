@@ -1,0 +1,21 @@
+ul {
+    list-style-type: none;
+    padding-left: 10px;
+}
+i {
+    color: #d1d4d1d5;
+}
+.folder i{
+    color: #eac700;
+}
+p {
+    margin: 0;
+    height: 29px;
+    line-height: 28px;
+    font-weight: normal;
+    display: flex;
+}
+p:hover {
+    background-color: #f2f2f2e7;
+    cursor: pointer;
+}
